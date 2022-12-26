@@ -1,4 +1,4 @@
-# node-todo-cicd
+# node-js Application development through CICD Pipeline using AWS INSTANCE And Docker
 
 sudo apt install nodejs
 sudo apt install npm
